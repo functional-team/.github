@@ -2,7 +2,7 @@
 <div align="center">
   <h1>Functional</h1>
 </div>
----
+
 ## 👋 Welcome
 
 We are highly specialized in cloud-native stacks on Azure and Kubernetes with a track record of designing,  
