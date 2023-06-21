@@ -1,7 +1,7 @@
 ![Functional](https://media.licdn.com/dms/image/D4E3DAQFhsBApAL_JOw/image-scale_191_1128/0/1682340517747?e=1687942800&v=beta&t=qDqTHt5D3VZEy9VeUkakmfEzZrTtLQPrGncMungoFt4)
-<!-- <div align="center">
+<div align="center">
   <h1>Functional</h1>
-</div> -->
+</div>
 ---
 ## 👋 Welcome
 
