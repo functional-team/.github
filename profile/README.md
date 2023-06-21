@@ -1,7 +1,6 @@
 ![Functional](https://media.licdn.com/dms/image/D4E3DAQFhsBApAL_JOw/image-scale_191_1128/0/1682340517747?e=1687942800&v=beta&t=qDqTHt5D3VZEy9VeUkakmfEzZrTtLQPrGncMungoFt4)
-<h1 style="text-align: center;">Functional</h1>
 
-## 👋 Welcome
+## 👋 Welcome  
 
 We are highly specialized in cloud-native stacks on Azure and Kubernetes with a track record of designing,  
 building and maintaining data-intense applications in Enterprise settings.  
